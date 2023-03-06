@@ -1,0 +1,19 @@
+body{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow' , Arial, sans-serif
+}
+img{
+    top:0%;
+    width:100px;
+    left:20%
+}
+
+h3{
+    color: blue;
+}
+
+.copyright{
+    text-align: center;
+    margin-top: 30 px;
+    border: 1 px solid;
+
+}
